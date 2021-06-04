@@ -1,0 +1,77 @@
+body{
+    background-color: hsl(204, 43%, 93%);
+    font-size: 14px;
+    font-family: "Karla", sans-serif;
+}
+h4{
+    color:hsl(179, 62%, 43%);
+}
+
+.box{
+    margin: 8% 30%;
+    box-shadow: 2px 0  rgb(44, 39, 39);
+}
+
+.about{
+    background-color: white;
+    color: hsl(218, 22%, 67%);
+    padding:5%;
+}
+
+.gurantee{
+    color:  hsl(71, 73%, 54%);
+}
+
+.subscription{
+    background-color: hsl(179, 62%, 43%)  !important;
+    color:white;
+    padding: 6%;
+}
+
+.dollar{
+    font-size: 25px;
+    font-weight: bold;
+    color:white;
+}
+
+.month{
+    color:rgb(216, 210, 210)
+}
+
+.signup{
+    background-color: hsl(71, 73%, 54%);
+    color:white;
+    padding:5% 35%;
+}
+
+.whyus{
+    background-color: hsl(179, 47%, 61%);
+    color: white;
+    padding:5%;
+}
+
+.why-header{
+    padding-bottom: 5%;
+}
+
+.whyus p{
+    margin-bottom: 0;
+    color: rgb(235, 232, 232);
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+}
+    
+.attribution a {
+     color: hsl(228, 45%, 44%);
+
+ }
+
+ @media (width:500px) {
+    .box{
+        margin: 8% 25%;
+        box-shadow: 2px 0  rgb(44, 39, 39);
+    }
+     
+ }
